@@ -1,0 +1,8 @@
+venv
+virtualenv
+.env
+.vscode
+.idea
+.DS_Store
+*.log
+__pycache__
